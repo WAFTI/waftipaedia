@@ -1,7 +1,8 @@
 from voltaire.pelican import *
 
 
-SITENAME = u'Waftipaedia'
+SITENAME = u'Wonkypaedia'
+PATH = './Wonkypaedia'
 
 
 MENUITEMS_START = [

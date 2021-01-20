@@ -10,7 +10,7 @@ He was given the nickname *Haddaway* supposedly because he "had a way"
 with words -- a reference to his unique ability to bring a sense of
 poetry to the Eurodance genre.
 
-Electronic music scholars have since challenged the origin of this name
+Electronic [[Music|music]] scholars have since challenged the origin of this name
 on the basis that in his early career it is more likely his peers
 would have used the present tense, naming him "Hassaway".
 

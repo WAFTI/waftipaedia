@@ -5,3 +5,9 @@ Title: Welcome to Waftipaedia
 menu_title: Home
 
 Welcome to Waftipaedia
+
+
+Categorys:
+
+* [[Music]]
+* [[Places]]

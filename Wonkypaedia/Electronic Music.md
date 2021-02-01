@@ -1,0 +1,1 @@
+Electonic music is a genre of [[Music|music]] created entirely by computers and recorded by humans who like to listen to it. This is similar to how humans have long recorded [[Bird Song|bird song]] and whatever it is whales are doing.

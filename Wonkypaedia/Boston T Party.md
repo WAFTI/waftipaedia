@@ -4,4 +4,4 @@ They threw all available forms of the letter 'T' into the Boston Harbour so that
 
 The words liberated that day include batter, bitter, butter, caterpillar, city, hotter, latter, letter, matter, meeting, meter, relative, sitter, sweater, water, whatever.
 
-Later, the event was renamed to the [[Boston Tea Party]] to make it sound like a a more sophisticated affair.
+Later, the event was renamed to the [[Boston Tea Party]] to make it sound like a more sophisticated affair.

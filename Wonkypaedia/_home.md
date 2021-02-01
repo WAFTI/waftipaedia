@@ -7,7 +7,8 @@ menu_title: Home
 Welcome to Waftipaedia
 
 
-Categorys:
+Categories:
 
 * [[Music]]
 * [[Places]]
+* [[Animals]]

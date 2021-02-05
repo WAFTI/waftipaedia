@@ -3,6 +3,7 @@ from voltaire.pelican import *
 
 SITENAME = u'Wonkypaedia'
 PATH = './Wonkypaedia'
+FILENAME_METADATA = '(?P<title>.*)'
 
 
 MENUITEMS_START = [

@@ -10,5 +10,6 @@ Welcome to Waftipaedia
 Categories:
 
 * [[Music]]
+* [[Film]]
 * [[Places]]
 * [[Animals]]

@@ -1,0 +1,1 @@
+_The Count of Monte Cristo_ is a novel written as a clear parody of the Earl of Sandwich.

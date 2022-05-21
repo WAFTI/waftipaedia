@@ -13,3 +13,6 @@ Categories:
 * [[Film]]
 * [[Places]]
 * [[Animals]]
+* [[Technology]]
+* [[Literature]]
+

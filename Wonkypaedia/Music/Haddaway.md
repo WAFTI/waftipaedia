@@ -1,7 +1,3 @@
-Title: Haddaway
-Tags: Eurodance musicians
-Status: published
-
 Most famous for his 1993 hit single, *What is Love*, Nestor Alexander (aka Haddaway) is a Trinidadian-German musician still active in the music industry.
 
 He was given the nickname *Haddaway* supposedly because he "had a way" with words -- a reference to his unique ability to bring a sense of poetry to the Eurodance genre.

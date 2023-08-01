@@ -15,4 +15,8 @@ Categories:
 * [[Animals]]
 * [[Technology]]
 * [[Literature]]
+* [[Science]]
+* [[People]]
+
+
 

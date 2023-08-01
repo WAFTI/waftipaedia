@@ -5,3 +5,4 @@ People that play music:
 * [[Rhyl Big Fish]]
 * [[Haddaway]]
 * [[Birds]] are largely credited with [[Bird Song]]
+* [[Bananarama]]

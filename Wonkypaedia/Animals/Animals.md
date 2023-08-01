@@ -3,3 +3,4 @@ Animals are living things that, unlike their nemesis, plants, can move and -- in
 Examples of animals:
 
 - [[Birds]]
+- [[Giraffes]]

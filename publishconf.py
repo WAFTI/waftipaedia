@@ -1,9 +1,7 @@
-from __future__ import unicode_literals
-
 import os
 import sys
 sys.path.append(os.curdir)
-from pelicanconf import *
+from pelicanconf import *  # noqa
 
 SITEURL = 'http://wiki.avengerpenguin.com'
 RELATIVE_URLS = False
@@ -13,4 +11,3 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-#GOOGLE_ANALYTICS = ""

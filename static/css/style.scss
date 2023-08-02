@@ -1,25 +1,64 @@
+// https://www.colourlovers.com/palette/4922571/Colorful_Balloons
+$yellow: #F0C61A;
+$green: #5BA163;
+$blue: #0A7FC2;
+$red: #C1181B;
+$purple: #433371;
+
+@import "@fontsource-variable/crimson-pro";
+@import '@fontsource/gloria-hallelujah';
+
 body {
+    font-family: 'Crimson Pro Variable', serif;
+    color: $purple;
+    margin: 0;
+    padding: 0;
     header {
-        text-align: center;
+
+        background-color: $blue;
+        color: $yellow;
+        font-family: 'Gloria Hallelujah', cursive;
 
         h1 {
+            font-size: 200%;
             a {
                 text-decoration: none;
                 &:visited {
+                    color: $yellow;
                     text-decoration: none;
                 }
                 &:hover {
+                    color: $red;
                     text-decoration: none;
+                }
+            }
+        }
+        nav {
+            ul {
+                li {
+                    a {
+                        color: $yellow;
+                        text-decoration: none;
+                        &:visited {
+                            color: $yellow;
+                        }
+                        &:hover, &:focus {
+                            color: $red;
+                        }
+                    }
                 }
             }
         }
     }
 
-    nav {
-        max-width: 40rem;
-        margin: 0 auto;
-        text-align: center;
+
+    a {
+        color: $blue;
+        &:visited {
+            color: $green;
+        }
     }
+
 }
 
 

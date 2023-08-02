@@ -4,3 +4,5 @@ venv
 .idea
 .obsidian
 .direnv
+node_modules
+static/css/files

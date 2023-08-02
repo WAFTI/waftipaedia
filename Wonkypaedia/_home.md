@@ -1,13 +1,11 @@
 save_as: index.html
 url: 
-status: published
-Title: Welcome to Wonkypaedia
+Title: Home
 menu_title: Home
 
-Welcome to Wonkypaedia
+Welcome to Wonkypaedia. The place that knows all.
 
-
-Categories:
+Categories of knowledge:
 
 * [[Music]]
 * [[Film]]
